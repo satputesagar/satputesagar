@@ -37,3 +37,10 @@ Here are some ideas to get you started:
  
 
 
+
+ [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
+ [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+ [![C++](https://img.shields.io/badge/--F7DF1E?logo=cplusplus&logoColor=0ffff0)](https://www.cplusplus.com/)
+ 
+ [[!ReactJS](https://img.shields.io/badge/--F7DF1E?logo=reactjs&logoColor=0ffff)](https://reactjs.org/)
+ 
