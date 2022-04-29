@@ -34,5 +34,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satputesagar)](https://git.io/streak-stats)
 
 
+[![sagar satpute top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satputesagar&theme=blue-green)](https://github.com/satputesagar/github-readme-stats)
+
 
 </p>
