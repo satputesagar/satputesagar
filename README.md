@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 <h4>🌱 I’m currently learning MERN Stack developer.</h4>
 <h4> 💬 Ask me about here</h4>
 </p>
- [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
- [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
- [![C++](https://img.shields.io/badge/--F7DF1F?logo=cplusplus&logoColor=0ffff0)](https://www.cplusplus.com/)
+
 <hr/>
  <h3 align="right">Connect with me:</h3>
 <p align="right">
@@ -38,5 +36,7 @@ Here are some ideas to get you started:
  [![sagar satpute top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satputesagar&theme=blue-green)](https://github.com/satputesagar/github-readme-stats)
  
 
-
+ [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
+ [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+ [![C++](https://img.shields.io/badge/--F7DF1F?logo=cplusplus&logoColor=0ffff0)](https://www.cplusplus.com/)
  
