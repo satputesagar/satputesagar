@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p>
 <h4>🔭 I’m currently working on  MERN Stack developer.</h4>
-<h4>🌱 I’m currently learning MERN Stack developer.</h4>
+<h4>🌱 I’m  learn MERN Stack developer.</h4>
 <h4> 💬 Ask me about here</h4>
 </p>
 
