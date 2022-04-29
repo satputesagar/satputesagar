@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <p>
 <h4>🔭 I’m currently working on  MERN Stack developer.</h4>
-<h4>🌱 I’m currently  learn AI ML full stack developer.</h4>
-<h4> 💬 Ask me about anything related javascript ,dsa ,full stack developer</h4>
+<h4>🌱 I’m currently  learn AI, ML and full stack developer.</h4>
+<h4> 💬 Ask me about anything related to javascript ,dsa  andfull stack developer</h4>
 </p>
 
 <hr/>
