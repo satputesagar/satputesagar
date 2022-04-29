@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
 <h4>🔭 I’m currently working on  MERN Stack developer.</h4>
 <h4>🌱 I’m currently learning MERN Stack developer.</h4>
 <h4> 💬 Ask me about here</h4>
+</p>
+
 <hr/>
  <h3 align="right">Connect with me:</h3>
 <p align="right">
@@ -26,15 +29,13 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
+<div align ="left">
 [![Sagar Satpute GitHub stats](https://github-readme-stats.vercel.app/api?username=satputesagar)](https://github.com/satputesagar/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=satputesagar&show_icons=true&theme=ADD_THEME_HERE" width="400">
+</div>
+<div align ="right">
+ <h3> [![sagar satpute top languages]</h3>
+ (https://github-readme-stats.vercel.app/api/top-langs/?username=satputesagar&theme=blue-green)](https://github.com/satputesagar/github-readme-stats)
+ 
+</div>
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satputesagar)](https://git.io/streak-stats)
-
-
-[![sagar satpute top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satputesagar&theme=blue-green)](https://github.com/satputesagar/github-readme-stats)
-
-
-</p>
